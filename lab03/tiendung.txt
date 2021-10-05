@@ -1,0 +1,12 @@
+Thong tin sinh vien
+Tran Tien Dung - 207CT68617
+TP.HCM
+19
+CNTT
+Bang diem:
+10
+9
+8
+7
+6
+5
