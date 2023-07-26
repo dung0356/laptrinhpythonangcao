@@ -1,0 +1,17 @@
+button.nutt{
+    height: 30px;
+    width: 60px;
+    font-size: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background: black;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 2px solid white;
+}
+.nhap{
+    width: 200px;
+}
